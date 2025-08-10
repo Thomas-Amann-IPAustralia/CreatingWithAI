@@ -1,0 +1,52 @@
+{
+  "sheets": [
+    "Toolkit",
+    "Prompts",
+    "What makes them different"
+  ],
+  "rowCount": 5,
+  "columns": [
+    "Tool",
+    "Characteristics",
+    "How to page",
+    "Platform Icon",
+    "Site link"
+  ],
+  "facets": {
+    "Tool": {
+      "Leonardo.AI": 1,
+      "ChatGPT-5": 1,
+      "Gemini": 1,
+      "Bing Image Creator": 1,
+      "PhotoPea": 1
+    },
+    "Characteristics": {
+      "•Feature rich platform •Very limited free credits •Suggest 'realtime canvas' for first pass": 1,
+      "•Among highest fidelity •Very slow •Daily upload limitation •Suggest using for 'final pass' •Limited use": 1,
+      "•Fastest outputs •Generally lower quality •Suggest for quick iteration and getting ideas out": 1,
+      "•Ability to switch models •Unlimited generation •High(ish) fidelity output •Suggest using it as a 'resource' generator": 1,
+      "•Not an AI image tool •Suggest using for photobashing and experimentation •Basically a free, browser based Photoshop": 1
+    },
+    "How to page": {
+      "https://leonardo.ai/learn/": 1,
+      "https://help.openai.com/en/articles/8932459-creating-images-in-chatgpt#h_6a1addadee": 1,
+      "https://support.google.com/gemini/answer/14286560?hl=en-gb&ref_topic=16079905#tips": 1,
+      "https://www.microsoft.com/en-us/bing/features/bing-image-creator/?form=MA13FV": 1,
+      "https://www.photopea.com/learn/": 1
+    },
+    "Platform Icon": {
+      "https://github.com/Thomas-Amann-IPAustralia/CreatingWithAI/blob/c9b9aaa617454b2a0e8e3fffa181fa9dc4854876/Images/Platform%20Icons/leonardo-ai-logo-png_seeklogo-619354.png": 1,
+      "https://github.com/Thomas-Amann-IPAustralia/CreatingWithAI/blob/3a64fffa2e628b4562a64032b06fa0a00a426a42/Images/Platform%20Icons/openai-chatgpt-logo-icon-free-png.webp": 1,
+      "https://github.com/Thomas-Amann-IPAustralia/CreatingWithAI/blob/c9b9aaa617454b2a0e8e3fffa181fa9dc4854876/Images/Platform%20Icons/gemini_icon-logo_brandlogos.net_bqzeu%20copy.png": 1,
+      "https://github.com/Thomas-Amann-IPAustralia/CreatingWithAI/blob/3a64fffa2e628b4562a64032b06fa0a00a426a42/Images/Platform%20Icons/BingAI.png": 1,
+      "https://github.com/Thomas-Amann-IPAustralia/CreatingWithAI/blob/c9b9aaa617454b2a0e8e3fffa181fa9dc4854876/Images/Platform%20Icons/PhotoPeaLogo.svg": 1
+    },
+    "Site link": {
+      "https://leonardo.ai/": 1,
+      "https://chatgpt.com/": 1,
+      "https://gemini.google.com/": 1,
+      "Free AI Image Generator - Bing Image Creator": 1,
+      "https://www.photopea.com/": 1
+    }
+  }
+}

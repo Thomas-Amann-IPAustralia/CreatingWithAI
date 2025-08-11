@@ -26,8 +26,9 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install deps
-        run: npm ci
+- name: Install deps
+- run: npm ci
++ run: npm install --no-audit --no-fund
 
       - name: Build
         run: npm run build

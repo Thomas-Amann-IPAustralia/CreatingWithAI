@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/CreatingWithAI/', // IMPORTANT: match your repo name for GitHub Pages
+  base: '/CreatingWithAI/',   // <-- must match your repo name
 })
